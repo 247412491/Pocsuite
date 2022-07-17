@@ -3,8 +3,8 @@
 ## 安装
 
 ```
-git clone https://github.com/247412491/pocsuite-.git
-cd xxl_job_poc
+git clone https://github.com/247412491/pocsuite.git
+cd xxxxx
 pip3 install -r requirements.txt
 ```
 
@@ -15,13 +15,13 @@ poc
 批量测试
 
 ```
-python3 cli.py  -r ./pocs/xxl_job_poc.py  --dork-fofa app=\"xxl-job\"  --max-size 500 --save-file ./xxl-job.txt  --threads 50
+python3 cli.py  -r ./pocs/xxxxx.py  --dork-fofa xxxxx  --max-size 500 --save-file ./xxxxxx.txt  --threads 50
 ```
 
 单url测试
 
 ```
-python3 cli.py  -r ./pocs/xxl_job_poc.py  -u http:xxxxx.com   --verify
+python3 cli.py  -r ./xxxxx.py  -u http:xxxxx.com   --verify
 ```
 
 
